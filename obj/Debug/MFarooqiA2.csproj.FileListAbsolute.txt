@@ -1,0 +1,6 @@
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\QUALITYASSURANCE\A2\MFarooqiA2\bin\Debug\MFarooqiA2.exe.config
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\QUALITYASSURANCE\A2\MFarooqiA2\bin\Debug\MFarooqiA2.exe
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\QUALITYASSURANCE\A2\MFarooqiA2\bin\Debug\MFarooqiA2.pdb
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\QUALITYASSURANCE\A2\MFarooqiA2\obj\Debug\MFarooqiA2.csprojAssemblyReference.cache
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\QUALITYASSURANCE\A2\MFarooqiA2\obj\Debug\MFarooqiA2.exe
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\QUALITYASSURANCE\A2\MFarooqiA2\obj\Debug\MFarooqiA2.pdb
